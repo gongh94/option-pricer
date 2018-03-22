@@ -1,0 +1,15 @@
+﻿  sobolrsg1.cpp
+  sobol.cpp
+c:\users\hangfeng gong\documents\github\option-pricer\pricer4\cf4\sobol.cpp(13811): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangfeng gong\documents\github\option-pricer\pricer4\cf4\sobol.cpp(14027): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangfeng gong\documents\github\option-pricer\pricer4\cf4\sobol.cpp(14032): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hangfeng gong\documents\github\option-pricer\pricer4\cf4\sobol.cpp(28060): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\hangfeng gong\documents\github\option-pricer\pricer4\cf4\sobol.cpp(28276): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Random2.cpp
+  ParkMiller.cpp
+  Normals.cpp
+  Main.cpp
+  BlackScholesFormulas.cpp
+  Arrays.cpp
+  Generating Code...
+  cf4.vcxproj -> C:\Users\Hangfeng Gong\Documents\GitHub\option-pricer\Pricer4\x64\Debug\cf4.exe
